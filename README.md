@@ -1,9 +1,7 @@
-# snake_game
-basic snake game using sprites
+# Ultra Snake
 
-Currently when you loose the game just closes.
+Basic snake game using sprites
 
-To be added:
+Use arrow keys to move.
 
-- Game Over screen
-- score (maybe)
+Aim of the game, get as long as you can by collecting the red blocks that pop up on the screen.
